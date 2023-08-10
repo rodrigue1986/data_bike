@@ -1,0 +1,7 @@
+This is a quick description, 
+You can find all files in the rar file, please unzip it to open the data.
+2 folders one for the cleaned data, and another one for the raw data.
+
+Students are welcome to have a look.
+
+Please do not copy, as the only way to learn and become a permanant skill is by working on a project yourself.
